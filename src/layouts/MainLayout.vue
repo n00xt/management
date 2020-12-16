@@ -6,7 +6,7 @@
           EKOLTECH - Prehľady
         </q-toolbar-title>
 
-        <div>v1.0-beta</div>
+        <div>v1.2-beta</div>
       </q-toolbar>
     </q-header>
     <q-page-container>
